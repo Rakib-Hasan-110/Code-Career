@@ -2,6 +2,8 @@
 
 ### Welcome to Assignment 1 of Sohoz 😎, Sorol 😁 & Simple 🤩
 
+![Project Preview](http://127.0.0.1:5500/index-1.html)
+
 A modern, responsive portfolio website showcasing my career aspirations and web development journey towards becoming a professional developer by 2025.
 
 ## Features
